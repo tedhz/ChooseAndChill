@@ -7,8 +7,8 @@ from textdistance import levenshtein
 import os
 
 #constants
-MOVIES_PATH = os.getcwd() + "/ml-25m/movies.csv"
-RATINGS_PATH = os.getcwd() + "/ml-25m/ratings.csv"
+MOVIES_PATH = os.getcwd() + "/ml_25m/movies.csv"
+RATINGS_PATH = os.getcwd() + "/ml_25m/ratings.csv"
 
 MAINSTREAM = 8000
 POPULAR = 3000
